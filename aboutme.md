@@ -4,6 +4,8 @@ title: About Me
 subtitle: Story of my life
 ---
 
-The world should revolve around me.
+Born in Malaysia, completed my tertiary education in Australia and stayed on due to work opportunities.
 
-### my history
+### Education
+
+### Career Experience
