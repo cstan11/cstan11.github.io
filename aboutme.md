@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: The world should revolve around me
+subtitle: TBA
 ---
 
-Boom
+Boom!
 
 ### my history
-
-Ra-ta-ta-ta-like that
