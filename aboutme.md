@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: TBA
+title: About Me
+subtitle: Story of my life
 ---
 
-Boom!
+The world should revolve around me.
 
 ### my history
