@@ -25,4 +25,4 @@ Born in Malaysia, completed my tertiary education in Australia. A professional w
   * Service Delivery Manager
   * Customer Support Manager
 
-Refer to [my Linkedin profile](https://au.linkedin.com/in/cstan11) for more information
+Refer to [my Linkedin profile](https://au.linkedin.com/in/cstan11) for more information.
