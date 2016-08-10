@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: Story of my life
+subtitle: Professional Background
 ---
 
-Born in Malaysia, completed my tertiary education in Australia. A professional with 10 years’ experience in project management, product development, and service delivery. I have consulted in various industries, including gaming/wagering, energy utilities, and transaction banking. Speaks Mandarin, English and Bahasa Melayu.
+Born in Malaysia, completed my tertiary education in Australia. A professional with 10 years’ experience in project management, product development, and service delivery. Consulted in various industries, including gaming/wagering, energy utilities, and transaction banking.
 
 ### Education and Qualifications
 - Master of Business Administration (Melbourne Business School - University of Melbourne, 2015)
